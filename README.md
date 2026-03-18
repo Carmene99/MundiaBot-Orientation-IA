@@ -12,4 +12,4 @@ MundiaBot est un chatbot intelligent conçu pour l'Université Mundiapolis. Il a
 1. Clonez le projet : `git clone https://github.com/votre-pseudo/Projet-MundiaBot.git`
 2. Installez les dépendances : `pip install -r requirements.txt`
 3. Configurez votre `HF_TOKEN` en variable d'environnement.
-4. 4. Lancez l'application 
+4. Lancez l'application 
